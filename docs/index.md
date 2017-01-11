@@ -20,7 +20,7 @@ Students:  Lina Rotermund and Ken Hughes
   - Gain experience in analyzing simulated data and comparing to theoretical predictions
 
 
-## [Texts](./Texts/)
+## Texts
 
 Largely *Topographic Effects in Stratified Flows* by Peter G. Baines (Cambridge Press, 1995).
 
