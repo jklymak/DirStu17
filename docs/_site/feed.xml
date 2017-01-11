@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Phy 426 Fluid Mechanics</title>
+    <title>Directed Studies</title>
     <description></description>
-    <link>http://jklymak.github.io/Phy426//Phy426/</link>
-    <atom:link href="http://jklymak.github.io/Phy426//Phy426/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 02 Dec 2016 14:15:17 -0800</pubDate>
-    <lastBuildDate>Fri, 02 Dec 2016 14:15:17 -0800</lastBuildDate>
+    <link>http://jklymak.github.io/DirStu17//DirStu17/</link>
+    <atom:link href="http://jklymak.github.io/DirStu17//DirStu17/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 11 Jan 2017 15:20:24 -0800</pubDate>
+    <lastBuildDate>Wed, 11 Jan 2017 15:20:24 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Thu, 24 Nov 2016 05:49:03 -0800</pubDate>
-        <link>http://jklymak.github.io/Phy426//Phy426/jekyll/update/2016/11/24/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://jklymak.github.io/Phy426//Phy426/jekyll/update/2016/11/24/welcome-to-jekyll/</guid>
+        <link>http://jklymak.github.io/DirStu17//DirStu17/jekyll/update/2016/11/24/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://jklymak.github.io/DirStu17//DirStu17/jekyll/update/2016/11/24/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
@@ -54,8 +54,8 @@
 &lt;p&gt;This &lt;em&gt;could&lt;/em&gt; be annoying. I tend to commit changes early and often, but it might help you catch a change I make.  &lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://jklymak.github.io/Phy426//Phy426/2014/09/03/Following-on-GH/</link>
-        <guid isPermaLink="true">http://jklymak.github.io/Phy426//Phy426/2014/09/03/Following-on-GH/</guid>
+        <link>http://jklymak.github.io/DirStu17//DirStu17/2014/09/03/Following-on-GH/</link>
+        <guid isPermaLink="true">http://jklymak.github.io/DirStu17//DirStu17/2014/09/03/Following-on-GH/</guid>
         
         
       </item>

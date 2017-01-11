@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Phy 426 Fluid Mechanics</title>
- <link href="http://jklymak.github.io/Phy426//atom.xml" rel="self"/>
- <link href="http://jklymak.github.io/Phy426//"/>
- <updated>2016-12-02T14:15:17-08:00</updated>
- <id>http://jklymak.github.io/Phy426/</id>
+ <title>Directed Studies</title>
+ <link href="http://jklymak.github.io/DirStu17//atom.xml" rel="self"/>
+ <link href="http://jklymak.github.io/DirStu17//"/>
+ <updated>2017-01-11T15:20:24-08:00</updated>
+ <id>http://jklymak.github.io/DirStu17/</id>
  <author>
    <name>Jody Klymak</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Welcome to Jekyll!</title>
-   <link href="http://jklymak.github.io/Phy426//jekyll/update/2016/11/24/welcome-to-jekyll/"/>
+   <link href="http://jklymak.github.io/DirStu17//jekyll/update/2016/11/24/welcome-to-jekyll/"/>
    <updated>2016-11-24T05:49:03-08:00</updated>
-   <id>http://jklymak.github.io/Phy426//jekyll/update/2016/11/24/welcome-to-jekyll</id>
+   <id>http://jklymak.github.io/DirStu17//jekyll/update/2016/11/24/welcome-to-jekyll</id>
    <content type="html">&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -36,9 +36,9 @@
  
  <entry>
    <title>Tip - Following updates on github</title>
-   <link href="http://jklymak.github.io/Phy426//2014/09/03/Following-on-GH/"/>
+   <link href="http://jklymak.github.io/DirStu17//2014/09/03/Following-on-GH/"/>
    <updated>2014-09-03T00:00:00-07:00</updated>
-   <id>http://jklymak.github.io/Phy426//2014/09/03/Following-on-GH</id>
+   <id>http://jklymak.github.io/DirStu17//2014/09/03/Following-on-GH</id>
    <content type="html">&lt;p&gt;I will try and post regular tips for working with the publishing ecosystem, iPython etc, as they occur to me.  &lt;/p&gt;
 
 &lt;p&gt;Today’s is spying on me as I work.  The notebooks that make up the &lt;a href=&quot;http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/lectures/&quot;&gt;Lectures&lt;/a&gt; and &lt;a href=&quot;http://nbviewer.ipython.org/github/jklymak/Phy411/tree/master/assigments/&quot;&gt;Assignments&lt;/a&gt; are all version controlled on &lt;a href=&quot;https://github.com/jklymak/Phy411&quot;&gt;GitHub&lt;/a&gt;.  &lt;/p&gt;

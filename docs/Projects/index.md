@@ -7,7 +7,7 @@ title: Projects (Dir Studies 2017)
 
    - *Reading* Chapter 1 Baines
    - *Technical*:  
-      - Setup computer to run MITgcm in parallel [See here](./install.html)
+      - Setup computer to run MITgcm in parallel [See here](/install)
       - Download [MITgcm](http://mitgcm.org) and install
       - Setup and run a simple test case: mean stratified flow over a Gaussian bump (See Klymak et al 2010, *JFM*, but w/ less resolution)
       - Plot the result of the model showing snapshots as the model spins up.  
