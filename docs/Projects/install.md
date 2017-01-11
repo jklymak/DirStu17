@@ -7,3 +7,12 @@
    5. intstal netcdf (file storage) `brew install netcdf --with-fortran`
 
 ## Python
+
+   1. Install [anaconda](https://www.continuum.io/downloads)  I use python 2.7 still, but I think just about everything now works w/ python 3.5
+   2. Try `ipython --pylab`.  From that command line try something like `fig,ax=plt.subplots();ax.plot(np.arange(10))`.
+   3. Try `jupyter-notebook` and open the webpage they suggest.  See their [website](http://jupyter.org) for demos and I'll give some example python notebooks soon.
+
+## MITgcm
+
+   1. Download the [source code](http://mitgcm.org/public/source_code.html).  Its a good idea to put this in a directory with the name the version you are running to avoid compatibility problems.  i.e. I keep a version at `~/MITgcmc66b/MITgcm` as that is the last version I downloaded.  I download the tar balls as they have been tested.  I always get errors from the CVS snapshots.
+   2. 
