@@ -2,7 +2,9 @@
 layout: default
 title: Installing (Dir Studies 2017)
 ---
+# Installing Software on a Mac
 
+Tested on macOS 10, but should work on relatively recent OS X as well.
 
 ## Compiler code
    1. Install xcode using the App Store
