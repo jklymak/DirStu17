@@ -4,11 +4,11 @@
 permalink:        pretty
 
 # Setup
-title:            Phy 426 Fluid Mechanics
-tagline:          'Fluid Mechanics'
+title:            Directed Studies
+tagline:          'Stratified Flow'
 description:      ''
-url:              http://jklymak.github.io/Phy426/
-baseurl:          '/Phy426'
+url:              http://jklymak.github.io/DirStu17/
+baseurl:          '/DirStu17'
 
 author:
   name:           'Jody Klymak'
