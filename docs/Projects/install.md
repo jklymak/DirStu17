@@ -21,4 +21,4 @@ title: Installing (Dir Studies 2017)
 ## MITgcm
 
    1. Download the [source code](http://mitgcm.org/public/source_code.html).  Its a good idea to put this in a directory with the name the version you are running to avoid compatibility problems.  i.e. I keep a version at `~/MITgcmc66b/MITgcm` as that is the last version I downloaded.  I download the tar balls as they have been tested.  I always get errors from the CVS snapshots.
-   2.
+   2. Clone my example project `git clone https://github.com/jklymak/MITgcmExampleSteadyGauss.git` and then follow the instructions at the project [README](https://github.com/jklymak/MITgcmExampleSteadyGauss/blob/master/README.md)
