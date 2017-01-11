@@ -12,5 +12,5 @@ title: Projects
       - Setup and run a simple test case: mean stratified flow over a Gaussian bump (See Klymak et al 2010, *JFM*, but w/ less resolution)
       - Plot the result of the model showing snapshots as the model spins up.  
    - *Hand in*:
-      - A [jupyter](http://jupyter.org) notebook with your plots in it.  
       - A github repository link to your *modified* code.  For an mitgcm run this usually means the `code`, and `input` directories.  
+      - A [jupyter](http://jupyter.org) notebook with your plots in it.  Preferably served from github.
