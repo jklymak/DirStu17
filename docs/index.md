@@ -32,4 +32,4 @@ See also [Kundu and Cohen](http://app.knovel.com/web/toc.v/cid:kpFME00004/viewer
 
 There will be six or seven numerical/analytical projects, based on readings from the text(s), each of equal weight towards the course grade.  There is no final exam, and students should expect the projects to carry over into the exam period.  
 
-## Projects
+## [Projects](./Projects)
