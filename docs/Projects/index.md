@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects (Dir Studies 2017)
+title: Projects
 ---
 
 ## Project 1:
