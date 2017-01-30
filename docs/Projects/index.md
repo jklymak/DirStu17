@@ -5,7 +5,7 @@ title: Projects
 
 ## Project 2:
 
-Due *14 Feb, 13:00**
+Due *14 Feb, 13:00*
 
    - *Reading* Chapter 2, Baines.
    - *Section 2.3*:
