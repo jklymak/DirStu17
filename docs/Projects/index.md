@@ -16,6 +16,8 @@ Due *14 Feb, 13:00**
 
 *NOTE* You may need to use more resolution.  For z, suggest stretching your grid in the vertical away from the region of interest near the bottom so you have lots of mass up there, but not much computation.
 
+*NOTE* Make sure your results have some commentary. Practice describing what you are seeing and making preliminary conclusions.
+
 
    
 
