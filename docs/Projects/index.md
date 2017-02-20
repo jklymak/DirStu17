@@ -5,6 +5,23 @@ title: Projects
 
 ## Project 2:
 
+Due *6 Mar, 13:00*
+
+   - *Reading* Chapter 3, Baines.
+   - *Section 3.3 & 3.5*:
+   - *numerically* use the Rieman invariants (Eq 3.3.13) to get solutions for an initial smoothed tophat interface displacement, with zero velocity anomaly from the background shear flow (By a smoothed step, I mean let the edges of the tophat  be initially smoothed so that if any shocks develop they develop as the flow evolves, not right away). Explore at least 4 locations in the parameter space shown in Fig 3.2.  For each location in parameter space explore what happens as your initial $\eta$ is positive or negative.  (I'll admit I have not carried out this exercise, but I *think* that for some interface displacements you will get the interface displacement changing sign within a few wavelengths).  Also make sure you find a couple of examples where shocks form.  
+   - In MITgcm, run the same simulations and see if they agree.
+   - In the MITgcm set up some hydraulic jumps and trace out one of the curves in Fig 3.7 for *two* values of $r_u$.  
+     - Note the upstream changes (so you can't really specify $r_d$ very easily)
+     - Document the jump speed, and compare to the curves in 3.7 (which you should be able to draw on analytically)
+     - Make sure you run the model past the maximum value of $r_d$.  
+
+*NOTE* You will probably need to run quite a few model runs to get the above to work.  Start to develop skills in running and analyzing these automatically.  Also, in your writeup, show *example* runs, but then summarize all the runs in one or two plots.
+
+*NOTE* Make sure your results have some commentary. Practice describing what you are seeing and making preliminary conclusions.
+
+## Project 2:
+
 Due *14 Feb, 13:00*
 
    - *Reading* Chapter 2, Baines.
@@ -19,7 +36,7 @@ Due *14 Feb, 13:00*
 *NOTE* Make sure your results have some commentary. Practice describing what you are seeing and making preliminary conclusions.
 
 
-   
+
 
 
 
@@ -38,4 +55,3 @@ Due *30 Jan, 13:00*
    - *Hand in*:
       - A github repository link to your *modified* code.  For an mitgcm run this usually means the `code`, and `input` directories.  No need to
       - A [jupyter](http://jupyter.org) notebook with your plots in it.  Preferably served from github.
-
