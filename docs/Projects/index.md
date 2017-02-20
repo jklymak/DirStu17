@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+mathjax: true
 ---
 
 ## Project 2:
