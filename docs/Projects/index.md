@@ -11,6 +11,7 @@ Due *1 May, 09:00*
   - *Reading& Chapter 3.6, 3.11
 ### Unidirectional flow:
   - In the MITgcm, simulate three different values of $r_1$, with three different $F_0$ and $h_m$.  When you choose what parameters to use for your simulations, try to choose partially blocked situations where the flow goes transcritical over the sill crest.  Describe the response in terms of the composite Froude number, and try to make sure you have an example of "approach control" (i.e. as in Fig 3.11).  Be sure to describe the transiet response and how the critical conditions set up.
+### Exchange Flow:
   - Do three runs of an exchange flow over an obstacle.  Have a large reservoir on both sides with a dense and ligh reservoir.  For the three runs make the upper layer of light water get thicker in the dense basin and show the transition from maximal exchange to sub maximal exchange as the upper layer gets thicker. 
 
 ## Project 3:
